@@ -27,7 +27,7 @@ from requests import get
 from pystyle import Colorate, Center, Write, Anime, Colors, System, Col
 
 # IP blaclist 
-blacklistip = ['1.1.1.1', '185.222.240.15', '213.55.247.48']
+blacklistip = ['1.1.1.1', 'enter-ip-for-blacklist-him']
 invalidip = ['']
 invalidport = ['']
 invalidtime = ['']
